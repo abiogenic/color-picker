@@ -1,0 +1,30 @@
+import ui
+
+class cell:
+	self.value = 0.5
+	def __init__(self, x, y):
+		self.x = x
+		self.y = y
+		self.position = (x, y)
+
+grid = ui.load_view('grid_view')
+
+gridFrame = [[1-1,1-2,1-3,1-4,1-5],[2-1,2-2,2-3,2-4,2-5]]
+
+1_1 = cell(1,1)
+1_2 = cell(1,2)
+1_3 = cell(1,3)
+1_4 = cell(1,4)
+1_5 = cell(1,5)
+
+2_1 = cell(2,1)
+2_2 = cell(2,2)
+2_2.cell.value = 1
+2_3 = cell(2,3)
+2_4 = cell(2,4)
+2_5 = cell(2,5)
+
+for x in gridFrame[y]:
+	print(x.cell.value)
+
+v.present('grid')

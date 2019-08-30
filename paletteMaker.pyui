@@ -1,0 +1,124 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 90}, {550, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "custom_class" : "",
+          "frame" : "{{462, 334}, {100, 100}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "uuid" : "FA7A0B22-B4C3-49DD-AA23-258C5022C1FD",
+          "border_color" : "RGBA(0.462264,0.462264,0.462264,1.000000)",
+          "class" : "View",
+          "name" : "lBar"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {550, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "custom_class" : "",
+          "frame" : "{{462, 334}, {100, 100}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "border_color" : "RGBA(0.004717,0.004717,0.004717,1.000000)",
+          "class" : "View",
+          "uuid" : "FA7A0B22-B4C3-49DD-AA23-258C5022C1FD",
+          "name" : "hBar"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 48}, {550, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "custom_class" : "",
+          "frame" : "{{462, 334}, {100, 100}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "uuid" : "FA7A0B22-B4C3-49DD-AA23-258C5022C1FD",
+          "border_color" : "RGBA(0.292453,0.292453,0.292453,1.000000)",
+          "class" : "View",
+          "name" : "sBar"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 132}, {550, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{374, 193}, {100, 100}}",
+          "class" : "View",
+          "name" : "storage1",
+          "uuid" : "B1FF350A-A615-4007-B798-092BF1D7865F"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 174}, {550, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{374, 193}, {100, 100}}",
+          "class" : "View",
+          "name" : "storage2",
+          "uuid" : "B1FF350A-A615-4007-B798-092BF1D7865F"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6.0000000000001137, 216}, {549.99999999999989, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{374, 193}, {100, 100}}",
+          "class" : "View",
+          "name" : "storage3",
+          "uuid" : "B1FF350A-A615-4007-B798-092BF1D7865F"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6.0000000000001137, 258}, {550.00000000000011, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{374, 193}, {100, 100}}",
+          "class" : "View",
+          "name" : "storage4",
+          "uuid" : "B1FF350A-A615-4007-B798-092BF1D7865F"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {847, 485}}",
+    "class" : "View",
+    "attributes" : {
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

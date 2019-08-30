@@ -1,0 +1,202 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{400, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "8",
+          "flex" : ""
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{50, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "1",
+          "flex" : ""
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{450, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "9",
+          "flex" : ""
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "0",
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{350, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "7",
+          "flex" : ""
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{100, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "2",
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{150, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "3",
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{200, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "4",
+          "flex" : ""
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{250, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "5",
+          "flex" : ""
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{300, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "6",
+          "flex" : ""
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{500, 0}, {50, 34}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "",
+          "frame" : "{{171, 197}, {100, 100}}",
+          "class" : "View",
+          "name" : "10",
+          "uuid" : "87D7663F-141A-4C9A-8B39-313E75200BEC"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {550, 34}}",
+        "class" : "Slider",
+        "attributes" : {
+          "flex" : "",
+          "continuous" : true,
+          "action" : "slider_action",
+          "frame" : "{{20, 103}, {200, 34}}",
+          "alpha" : 1,
+          "uuid" : "73325A89-7AA2-4D80-BE3B-2DD984CD5519",
+          "class" : "Slider",
+          "value" : 0.5,
+          "name" : "slider"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {550, 34}}",
+    "class" : "View",
+    "attributes" : {
+      "flex" : "",
+      "custom_class" : "",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : ""
+    },
+    "selected" : false
+  }
+]
